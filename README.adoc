@@ -1,0 +1,13 @@
+= Решение задачи thread-hash
+
+* Оригинальная задача: https://github.com/diligent-snail/thread-hash-task
+* Объяснения -- в комментариях
+
+== Как открыть
+
+В Intellij IDEA:
+
+. File
+. New
+. Project from existing sources
+. Выбрать link:pom.xml[`pom.xml`]
